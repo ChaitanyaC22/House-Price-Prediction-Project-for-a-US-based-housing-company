@@ -29,3 +29,7 @@ Refer to the Dataset folder for data.
 **Data Definition**
 
 The details of the various variables (data dictionary): given in the 'data_description.txt' file. 
+
+## Jupyter Notebook Viewer
+If you are unable to view or load the jupyter IPython notebook via Github, please click on this [link](https://nbviewer.jupyter.org/github/ChaitanyaC22/House-Price-Prediction-Project-for-a-US-based-housing-company/blob/chai_main/House_Price_Prediction_Model.ipynb).
+Thank you!
